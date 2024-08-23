@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./web102' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jordendemerritte/web102-prework/blob/42f5e9b121a9a9a68d32f6567d43111bd62a6f66/assets/web102.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
